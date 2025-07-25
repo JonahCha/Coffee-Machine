@@ -7,7 +7,7 @@ This is a simple command-line **Coffee Machine simulation** coded in Python. It 
 ## 📽️ Demo Screenshot
 
 
-![Coffee Machine Screenshot](screenshot.png)
+![Coffee Machine Screenshot](Coffe_machine.png)
 
 ---
 
