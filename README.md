@@ -6,7 +6,6 @@ This is a simple command-line **Coffee Machine simulation** coded in Python. It 
 
 ## 📽️ Demo Screenshot
 
-> Upload your screenshot as `screenshot.png` in the repo.
 
 ![Coffee Machine Screenshot](screenshot.png)
 
