@@ -31,12 +31,3 @@ This is a simple command-line **Coffee Machine simulation** coded in Python. It 
 - Type `off` to shut down the machine
 
 ---
-
-## ⚙️ How to Run
-
-Make sure you have Python 3 installed.
-
-```bash
-git clone https://github.com/JonahCha/Coffee-Machine.git
-cd Coffee-Machine
-python main.py
