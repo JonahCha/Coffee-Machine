@@ -9,8 +9,6 @@ This is a simple command-line **Coffee Machine simulation** coded in Python. It 
 
 ![Coffee Machine Screenshot](Coffe_machine.png)
 
-[Watch Demo](media/coffee-machine-demo.mp4)
-
 
 ---
 
